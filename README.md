@@ -1,11 +1,11 @@
-About r-dapr
-============
+About r-dapr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dapr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mkearney/dapr
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dapr-feedstock/blob/main/LICENSE.txt)
 
 Summary: An easy-to-use, dependency-free set of functions for iterating over elements of various input objects. Functions are wrappers around base apply()/lapply()/vapply() functions but designed to have similar functionality to the mapping functions in the 'purrr' package <https://purrr.tidyverse.org/>. Specifically, function names more explicitly communicate the expected class of the output and functions also allow for the convenient shortcut of '~ .x' instead of the more verbose 'function(.x) .x'.
 
